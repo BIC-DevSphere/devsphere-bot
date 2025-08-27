@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which of the following correctly declares a pointer to an integer?",
+        "options": {
+            "a": "int *ptr;",
+            "b": "int ptr*;",
+            "c": "pointer int ptr;",
+            "d": "int &ptr;"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which function is used to print output to the screen in C?",
+        "options": {
+            "a": "scanf()",
+            "b": "print()",
+            "c": "printf()",
+            "d": "cout"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the size of 'char' data type in most C compilers?",
+        "options": {
+            "a": "1 byte",
+            "b": "2 bytes",
+            "c": "4 bytes",
+            "d": "Depends on the compiler"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which symbol is used to include a header file in C?",
+        "options": {
+            "a": "<>",
+            "b": "#",
+            "c": "{}",
+            "d": "$"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is used to define a constant value in C?",
+        "options": {
+            "a": "const",
+            "b": "#define",
+            "c": "Both a and b",
+            "d": "immutable"
+        },
+        "answer": "c"
+    }
+]

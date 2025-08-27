@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which of the following is the correct way to declare an integer variable in C?",
+        "options": {
+            "a": "int x;",
+            "b": "integer x;",
+            "c": "var x;",
+            "d": "float x;"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which operator is used to access the value at the address stored in a pointer?",
+        "options": {
+            "a": "&",
+            "b": "*",
+            "c": "%",
+            "d": "->"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is used to take input from the user in C?",
+        "options": {
+            "a": "printf()",
+            "b": "scanf()",
+            "c": "cin",
+            "d": "input()"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the output of the following code?\n\n```c\nprintf(\"%d\", 5/2);\n```",
+        "options": {
+            "a": "2.5",
+            "b": "2",
+            "c": "3",
+            "d": "Error"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which loop is guaranteed to execute at least once in C?",
+        "options": {
+            "a": "for loop",
+            "b": "while loop",
+            "c": "do-while loop",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    }
+]

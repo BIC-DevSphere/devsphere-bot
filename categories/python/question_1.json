@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which data type is used to store text in Python?",
+        "options": {
+            "a": "int",
+            "b": "str",
+            "c": "bool",
+            "d": "float"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the output of: print(2 ** 3)?",
+        "options": {
+            "a": "6",
+            "b": "8",
+            "c": "9",
+            "d": "5"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": {
+            "a": "func",
+            "b": "def",
+            "c": "function",
+            "d": "define"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": {
+            "a": "tuple",
+            "b": "str",
+            "c": "list",
+            "d": "int"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does the 'len()' function do in Python?",
+        "options": {
+            "a": "Returns the type of a variable",
+            "b": "Returns the length of an object",
+            "c": "Converts a value to an integer",
+            "d": "Prints output to the screen"
+        },
+        "answer": "b"
+    }
+]

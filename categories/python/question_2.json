@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which of the following loops is guaranteed to execute at least once?",
+        "options": {
+            "a": "for loop",
+            "b": "while loop",
+            "c": "do-while loop",
+            "d": "None of the above"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the output of: print(type([1, 2, 3]))?",
+        "options": {
+            "a": "<class 'list'>",
+            "b": "<class 'tuple'>",
+            "c": "<class 'dict'>",
+            "d": "<class 'set'>"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which operator is used for floor division in Python?",
+        "options": {
+            "a": "/",
+            "b": "//",
+            "c": "%",
+            "d": "**"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How do you insert an element at the end of a list named 'my_list'?",
+        "options": {
+            "a": "my_list.add(element)",
+            "b": "my_list.append(element)",
+            "c": "my_list.insert(element)",
+            "d": "my_list.push(element)"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which statement is used to handle exceptions in Python?",
+        "options": {
+            "a": "try-except",
+            "b": "catch",
+            "c": "handle",
+            "d": "error"
+        },
+        "answer": "a"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which of the following is the correct way to declare an array of 5 integers in C?",
+        "options": {
+            "a": "int arr[5];",
+            "b": "int arr();",
+            "c": "array arr[5];",
+            "d": "int arr{};"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which function is used to read a single character from the user in C?",
+        "options": {
+            "a": "scanf(\"%c\", &ch);",
+            "b": "gets(ch);",
+            "c": "getchar();",
+            "d": "input();"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the output of the following code?\n\n```c\nint x = 10;\nprintf(\"%d\", x++);\n```",
+        "options": {
+            "a": "10",
+            "b": "11",
+            "c": "Error",
+            "d": "Undefined"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which keyword is used to return a value from a function in C?",
+        "options": {
+            "a": "break",
+            "b": "return",
+            "c": "exit",
+            "d": "goto"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following correctly declares a function that takes two integers and returns an integer?",
+        "options": {
+            "a": "int add(int a, int b);",
+            "b": "function add(int a, int b);",
+            "c": "int add(a, b);",
+            "d": "int add(int a, b);"
+        },
+        "answer": "a"
+    }
+]
